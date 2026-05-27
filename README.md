@@ -5,3 +5,4 @@ README update
 README update via gh
 SSH key not needed - HTTPS push works via gh
 Git push works permanently
+Fixed permanent credentials
