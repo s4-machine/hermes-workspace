@@ -2,3 +2,4 @@
 
 This is the workspace for Hermes Agent projects and experiments.
 README update
+README update via gh
