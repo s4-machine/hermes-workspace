@@ -8,3 +8,4 @@ Git push works permanently
 Fixed permanent credentials
 Credential helper script
 Testing proper credential helper
+Global credential helper working
